@@ -1,5 +1,8 @@
 # Exercício com Three.js – Introdução e prática com transformações e câmera
 
+## Link do projeto
+https://evertonsc.github.io/three-js-lib/
+
 ## Objetivo:
 - Familiarizar-se com a biblioteca Three.js, explorando a criação de objetos 3D, aplicação de transformações e configuração da câmera.
 
